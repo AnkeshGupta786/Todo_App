@@ -23,9 +23,9 @@ A clean, responsive and dynamic ToDo application built using *React* and *JavaSc
 ```bash
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
-
+---
 ###2. Install Dependencies
-
+```bash
 Make sure you have Node.js and npm installed. Then run:
 
 npm install
